@@ -1,4 +1,4 @@
-# Tampered_IMG_detection
+# Fake_IMG_detection
 
  * Predictive Modeling : CASIA v2 데이터를 ELA(Error Level Analysis)로 전처리 한 후 EfﬁcientNetB0 로 모델링하고, 다시 distilled 하여 Model size 를 줄인 코드입니다.
  * 모델 크기와 상관 없이 성능이 중요한 경우, EfﬁcientNetB0 모델링 코드까지만 봅니다. 성능향상을 위해서는 추가 튜닝이 필요합니다.
